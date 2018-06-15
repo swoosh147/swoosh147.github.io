@@ -15,7 +15,7 @@ Check the [demo](http://swoosh147.github.com).
  
 ## Templates
 
- - [vertical](http://pavelmakhov.com/jekyll-cv-crafter/cv-vertical) template (WIP)
+ - [vertical](http://swoosh147.github.com/cv-vertical) template (WIP)
  - feel free to add yours! 
 
 ## Installation
