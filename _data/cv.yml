@@ -1,4 +1,4 @@
-url: https://swoosh147.github.io
+url: http://streetturtle.github.io
 projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
@@ -25,7 +25,6 @@ career:
     - accomplishment: Assurance, in particular SQM, as part of the project team.
     - accomplishment: Development and coordination of technical documentation business and functional requirements, TOR for the development of IT systems, specifications.
     - accomplishment: Analysis of technical solutions OSS
-
  - position: Lead Engineer
    company: TMNT
    location: Moscow, RUS
@@ -41,7 +40,6 @@ career:
     - accomplishment: Control of integration of attached networks (ex-Comstar, AMT (FTTB Moscow region), Tascom) in the management of mass incidents, changes, works, problems
     - accomplishment: Implementation of the business process of managing problems in the technical block (in all areas, except for fixed telephony, energy and climate protection)
     - accomplishment: Implementation of the iptv Qligent vision monitoring system. Conducting PMI, monitoring and support of project activities for installation and configuration of equipment, administration of the system.
-
 - position: Engineer
    company: TMNT
    location: Moscow, RUS
