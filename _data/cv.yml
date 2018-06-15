@@ -3,12 +3,12 @@ projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Savinov Maxim
+  name: Ivan Ivanov
   depiction: headshot.png
   profession: project architect
   location: Moscow
   citizenship: RUSSIA
-  email: maxisavinov147@gmail.com
+  email: mymail.ru
   site: https://swoosh147.github.io
   phone: +7916/////
   github: /swoosh147

@@ -11,7 +11,6 @@ Check the [demo](http://swoosh147.github.com).
  - Font Awesome icons + Bootstrap.
  - Could be easily integrated in already existing site/blog hosted on Github using Jekyll [data](http://jekyllrb.com/docs/datafiles/) files.
  - Data is separated from the view - just fill the YAML file to create your CV.
- - You can easily modify the template or create a new theme according to your needs (check out [my CV](http://pavelmakhov.com/cv)).
  
 ## Templates
 
