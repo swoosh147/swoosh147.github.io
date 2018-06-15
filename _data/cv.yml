@@ -3,17 +3,16 @@ projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
+  name: Savinov Maxim
   depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
+  profession: project architect
+  location: Moscow
+  citizenship: RUSSIA
+  email: maxisavinov147@gmail.com
+  site: https://swoosh147.github.io
+  phone: +7916/////
   github: /swoosh147
   stackoverflow: /swoosh147
-  linkedin: /swoosh147
 
 career:
  - position: Foot Clan Antagonist
